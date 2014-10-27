@@ -1,0 +1,10 @@
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\bin\Debug\Converter Project.exe.config
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\bin\Debug\Converter Project.exe
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\bin\Debug\Converter Project.pdb
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\bin\Debug\Converter Project.xml
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\obj\Debug\Converter_Project.Form1.resources
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\obj\Debug\Converter_Project.Resources.resources
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\obj\Debug\Converter Project.vbproj.GenerateResource.Cache
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\obj\Debug\Converter Project.exe
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\obj\Debug\Converter Project.xml
+D:\Park\VB2012\Chap03\Converter Solution\Converter Project\obj\Debug\Converter Project.pdb
