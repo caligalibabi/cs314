@@ -162,7 +162,7 @@ Partial Class frmMain
         'amountPaidTxt
         '
         Me.amountPaidTxt.AutoSize = True
-        Me.amountPaidTxt.Location = New System.Drawing.Point(9, 52)
+        Me.amountPaidTxt.Location = New System.Drawing.Point(12, 52)
         Me.amountPaidTxt.Name = "amountPaidTxt"
         Me.amountPaidTxt.Size = New System.Drawing.Size(70, 13)
         Me.amountPaidTxt.TabIndex = 14
