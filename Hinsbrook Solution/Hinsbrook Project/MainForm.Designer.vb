@@ -98,7 +98,7 @@ Partial Class frmMain
         Me.btnExit.Text = "Exit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
-        'Form1
+        'frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -111,7 +111,7 @@ Partial Class frmMain
         Me.Controls.Add(Me.lblChange)
         Me.Controls.Add(Me.lblAmountPaid)
         Me.Controls.Add(Me.lblAmountOwed)
-        Me.Name = "Form1"
+        Me.Name = "frmMain"
         Me.Text = "Change Calculator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
